@@ -18,4 +18,8 @@ router.get('/test2', function(req, res, next) {
   res.send('respond with a resource');
 });
 
+router.get('/test3', function(req, res, next) {
+  res.send('respond with a resource');
+});
+
 module.exports = router;
