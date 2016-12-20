@@ -18,4 +18,8 @@ router.get('/test3', function(req, res, next) {
   return res.end('success');
 });
 
+router.get('/test4', function(req, res, next) {
+  return res.end('success');
+});
+
 module.exports = router;
