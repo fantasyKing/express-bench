@@ -104,3 +104,5 @@ logs/
 typings/
 typings.json
 jsconfig.json
+
+test.js
